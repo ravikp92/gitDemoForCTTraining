@@ -1,8 +1,7 @@
 This is read me file --- 
 using notepad README.md command
  commands
-
-1  ls
+ $     1  ls
     2  ls -a
     3  pwd
     4  git
@@ -76,3 +75,25 @@ using notepad README.md command
    72  git restore --staged dummyfile.css
    73  git status
    74  history
+   75  notepad README.md
+   76  git status
+   77  git add README.md
+   78  git status
+   79  git commit -m "Read me added with comments" README.md
+   80  git status
+   81  git show
+   82  git status
+   83  git status --short
+   84  history
+   85  notepad README.md
+   86  git diff
+   87  git loggit log
+   88  git logggggggggg
+   89  git log --stat
+   90  git  log --oneline
+   91  git log 141dd9f
+   92  git log 141dd9f --patch
+   93  git log --stat
+   94  git config -list
+   95  git config --list
+   96  history

@@ -320,3 +320,55 @@ using notepad README.md command
   268  ls
   269  nano README.md
   270  history
+
+updated on 15th october
+ 251  git remote -v
+  252  git fetch
+  253  git pull
+  254  git pull origin master
+  255  cd ..
+  256  git pull origin master
+  257  cd gitDemoForCTTraining/
+  258  git pull origin main
+  259  cd ..
+  260  git pull origin master
+  261  git push origin master
+  262  git remote -ve
+  263  git remote -v
+  264  ls
+  265  hostory
+  266  git history
+  267  history
+  268  ls
+  269  nano README.md
+  270  history
+  271  nano README.md
+  272  git add README.md
+  273  git commit -m "Updated Read.md with remove of ct id"
+  274  git push origin master
+  275  git pull origin master
+  276  git status
+  277  gitpush
+  278  git push
+  279  git pull
+  280  git push
+  281  git status
+  282  cd gitDemoForCTTraining/
+  283  git status
+  284  git pull
+  285  git pull origin/main
+  286  git pull origin main
+  287  git push origin main
+  288  git status
+  289  git pull origin main
+  290  cd ..
+  291  git status
+  292  git add gitDemoForCTTraining/
+  293  git status
+  294  git commit -m "commit gitdemoproject as per new commits"
+  295  git pull origin master
+  296  git push origin master
+  297  git status
+  298  git log --oneline
+  299  history 10
+  300  history 50

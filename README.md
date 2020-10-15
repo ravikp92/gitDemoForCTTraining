@@ -373,5 +373,107 @@ updated on 15th october
   299  history 10
   300  history 50
 
+-- for git branches
+
+ 260  git pull origin master
+  261  git push origin master
+  262  git remote -ve
+  263  git remote -v
+  264  ls
+  265  hostory
+  266  git history
+  267  history
+  268  ls
+  269  nano README.md
+  270  history
+  271  nano README.md
+  272  git add README.md
+  273  git commit -m "Updated Read.md with remove of ct id"
+  274  git push origin master
+  275  git pull origin master
+  276  git status
+  277  gitpush
+  278  git push
+  279  git pull
+  280  git push
+  281  git status
+  282  cd gitDemoForCTTraining/
+  283  git status
+  284  git pull
+  285  git pull origin/main
+  286  git pull origin main
+  287  git push origin main
+  288  git status
+  289  git pull origin main
+  290  cd ..
+  291  git status
+  292  git add gitDemoForCTTraining/
+  293  git status
+  294  git commit -m "commit gitdemoproject as per new commits"
+  295  git pull origin master
+  296  git push origin master
+  297  git status
+  298  git log --oneline
+  299  history 10
+  300  history 50
+  301  nano README.md
+  302  git add README.md
+  303  git commit -m "updated commands of today"
+  304  git push origin master
+  305  git pull origin master
+  306  git pull origin origin/master
+  307  cd gitDemoForCTTraining/
+  308  cd ..
+  309  git branch --list
+  310  git branch newbranchFromMaster
+  311  git branch --list
+  312  git checkout newbranchFromMaster
+  313  ls
+  314  git branch --list
+  315  git checkout master
+  316  git checkout newbranchFromMaster
+  317  echo "test from new branch" >> newbranch.txt
+  318  git add newbranch.txt
+  319  ls
+  320  echo "new branch abc" >> file.abc
+  321  ls
+  322  git add file.abc
+  323  git commit -m "commit from new branch"
+  324  git status
+  325  git checkout master
+  326  git status
+  327  ls
+  328  git checkout newbranchFromMaster
+  329  checkout branch master
+  330  git checkout master
+  331  git log --oneline
+  332  git branch
+  333  ls
+  334  git checkout newbranchFromMaster
+  335  git log --oneline
+  336  git checkout master
+  337  git checkout newbranchFromMaster
+  338  notepad README.md
+  339  git status
+  340  git commit -a -m "updated readme.md in new branchfrommaster"
+  341  git status
+  342  git log --oneline
+  343  git log --oneline
+  344  git checkout master
+  345  git log --oneline
+  346  git merge newbranchFromMaster
+  347  git log --oneline
+  348  ls
+  349  git log --oneline
+  350  git checkout newbranchFromMaster
+  351  git log --oneline
+  352  git status
+  353  git pull origin master
+  354  git checkout master
+  355  git pull origin master
+  356  git push origin master
+  357  git pull origin master
+  358  history
+  359  history 100
 
 Added comments from new branch...

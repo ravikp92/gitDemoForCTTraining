@@ -476,4 +476,115 @@ updated on 15th october
   358  history
   359  history 100
 
+
+  355  git pull origin master
+  356  git push origin master
+  357  git pull origin master
+  358  history
+  359  history 100
+  360  notepad README.md
+  361  git commit -a -m "updated readme.md in new master"
+  362  git push origin master
+  363  git pull origin master
+  364  git log --oneline
+  365  git checkout newbranchFromMaster
+  366  git log --oneline
+  367  git checkout master
+  368  q
+  369  ls
+  370  cd gitDemoForCTTraining/
+  371  git log --oneline
+  372  cd ..
+  373  git checkout -b featurebranch
+  374  git log --oneline
+  375  gti branch
+  376  git branch
+  377  git branch -a
+  378  git branch -av
+  379  ls
+  380  git log --online --decorate
+  381  git log --oneline --decorate --graph
+  382  git log --oneline --decorate --graph
+  383  git log --oneline --decorate --graph -all
+  384  git log --oneline --decorate --graph --all
+  385  ls
+  386  notepad file.abc
+  387  git commit -am "modified fiel.abc"
+  388  git status
+  389  git log --oneline --decorate --graph
+  390  git checkout master
+  391  git log --oneline --decorate --graph
+  392  notepad test.abcd
+  393  git commit -am "added test.abd into master"
+  394  git add test.abcd
+  395  git commit -am "added test.abd into master"
+  396  git merge featurebranch
+  397  git log --oneline --decorate --graph
+  398  git status
+  399  git log --oneline --decorate --graph
+  400  git checkout featurebranch
+  401  git log --oneline --decorate --graph
+  402  git checkout master
+  403  git log --oneline --decorate --graph --all
+  404  git checkout featurebranch
+  405  git log --oneline --decorate --graph --all
+  406  git checkout master
+  407  git branch -d featurebranch
+  408  git branch
+  409  git log --oneline --decorate --graph --all
+  410  git log --oneline --decorate --graph
+  411  git log --oneline --decorate --graph --all
+  412  git checkout -b large-feature
+  413  ls
+  414  notepad file.abc
+  415  notepad file.abc
+  416  git commit -am "file.abc updated with 3 changes"
+  417  notepad file1
+  418  git commit -am "file1 updated with 2 changes"
+  419  git status
+  420  git checkout master
+  421  notepad file.abc
+  422  git commit -am "file.abc update on master branch"
+  423  echo "new file created" >> file.nm
+  424  git add .
+  425  git commit -am "file.nm is created"
+  426  git status
+  427  git log --oneline --decorate --graph --all
+  428  git merge large-feature
+  429  git merge abort
+  430  git merge --abort
+  431  cd gitDemoForCTTraining/
+  432  git status
+  433  git log --oneline
+  434  git checkout -b quick-feature
+  435  git log --oneline
+  436  ls
+  437  echo "test 1 " >> test.abc
+  438  git add test.abc
+  439  git commit -am "new file added test.abc"
+  440  git push
+  441  git log --oneline
+  442  git log --oneline
+  443  git mergetool
+  444  git log --oneline
+  445  git mergetool
+  446  git merge
+  447  git branch
+  448  git checkout large-feature
+  449* git statu
+  450  cd ..
+  451  cd HealthCareProject/
+  452  git config --global diff.tool p4merge
+  453  checkout master
+  454  git checkout master
+  455  git status
+  456  git add gitDemoForCTTraining/
+  457  git status
+  458  git commit -am "changes in gitdemoct "
+  459  git remote
+  460  git remote -v
+  461  git pull origin master
+  462  history 200
+
+
 Added comments from new branch...
